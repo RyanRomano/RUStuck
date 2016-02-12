@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RUStuck/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_5a8409b852c6e2a47ee4a7bcddee54fc5bf1dfa5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RUStuck/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_d990a9c50ae46d6743dfdfc39c23c2b13bd40ec8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RUStuck/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_c728be063cf0bbe4b6965a811815ef28c7af4142.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RUStuck/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_6b8a268f1b9dd203dc3a99a387a3953de5682d9d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RUStuck/app/build/intermediates/pre-dexed/debug/debug_5b62cf5a90606a8b75b4df587a6fb690478f1885.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RUStuck/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_f6b16e23d144185abf1e5ea7e3fe90030154f66d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RUStuck/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_57b3c87972397722aaceeffa12850c40b0722e9f.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
